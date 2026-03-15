@@ -1,1 +1,7 @@
-
+fastapi
+flet
+uvicorn
+requests
+pydantic
+flet-fastapi
+gunicorn
