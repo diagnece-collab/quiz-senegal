@@ -1,0 +1,762 @@
+[
+  {
+    "q": "Quelle réforme de 1956 a préparé l'autonomie du Sénégal ?",
+    "options": ["La Loi-cadre Defferre", "Le Plan Marshall", "Le Traité de Rome", "La Constitution"],
+    "reponse": "La Loi-cadre Defferre",
+    "explication": "Portée par Gaston Defferre, elle a permis aux colonies d'Afrique d'avoir leurs propres gouvernements locaux.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Dans quel royaume un Damel pouvait dire à un roi du Djolof : 'Je ne suis plus ton vassal' ?",
+    "options": ["Cayor", "Waalo", "Baol", "Sine"],
+    "reponse": "Cayor",
+    "explication": "Le Cayor était sous domination du Djolof avant de prendre son indépendance lors de la bataille de Danki.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Le titre de 'Brak' appartient à quel royaume ?",
+    "options": ["Waalo", "Djolof", "Cayor", "Saloum"],
+    "reponse": "Waalo",
+    "explication": "Le Brak était le souverain du Waalo, assisté par la Linguère (sa sœur ou mère).",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Si tu vivais au Djolof au sommet de sa puissance, tu dépendrais d’un souverain appelé :",
+    "options": ["Bourba (Buurba)", "Damel", "Brak", "Teigne"],
+    "reponse": "Bourba (Buurba)",
+    "explication": "Le Buurba était l'empereur du Djolof, le cœur politique historique de la Sénégambie.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Le royaume du Waalo avait une reine très célèbre pour sa résistance. Comment s’appelait‑elle ?",
+    "options": ["Ndaté Yalla Mbodj", "Aline Sitoé Diatta", "Lingeer Fatim Yamar", "Mariama Bâ"],
+    "reponse": "Ndaté Yalla Mbodj",
+    "explication": "Dernière grande Linguère du Waalo, elle a résisté farouchement aux colons et aux Maures.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Si tu fais un voyage dans le temps vers 1549 pour assister à la bataille de Danki, tu vois :",
+    "options": ["Le Cayor rompre avec le Djolof", "L’indépendance du Sénégal", "La Coupe d’Afrique de football", "La création du franc CFA"],
+    "reponse": "Le Cayor rompre avec le Djolof",
+    "explication": "C'est l'acte de naissance de l'indépendance du Cayor face à l'Empire du Djolof.",
+    "categorie": "Histoire",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Quel royaume est colonisé en 1855 après la défaite d’une reine au nord du Sénégal ?",
+    "options": ["Waalo", "Djolof", "Sine", "Saloum"],
+    "reponse": "Waalo",
+    "explication": "Le Waalo fut le premier royaume annexé par Faidherbe après une résistance héroïque.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Tu passes ta journée avec Lat Dior : tu es dans quel royaume ?",
+    "options": ["Cayor", "Waalo", "Djolof", "Casamance"],
+    "reponse": "Cayor",
+    "explication": "Lat Dior Diop fut le Damel le plus célèbre pour sa résistance au chemin de fer colonial.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Avant la colonisation, le territoire du Sénégal actuel est surtout organisé en :",
+    "options": ["Royaumes et empires", "Départements français", "Régions administratives", "Entreprises privées"],
+    "reponse": "Royaumes et empires",
+    "explication": "La structure politique était basée sur des monarchies électives très organisées.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "L’empire du Djolof regroupe plusieurs royaumes. Lequel peut en avoir fait partie ?",
+    "options": ["Cayor", "Baol", "Waalo", "Tous ces royaumes"],
+    "reponse": "Tous ces royaumes",
+    "explication": "À son apogée, le Djolof était une confédération regroupant presque tout le Nord et le Centre.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si on te dit : 'Bataille de Logandème, résistance à la colonisation', tu penses à :",
+    "options": ["Ndaté Yalla", "Lat Dior", "Cheikh Anta Diop", "Senghor"],
+    "reponse": "Lat Dior",
+    "explication": "Une des grandes batailles où Lat Dior a montré son génie tactique contre l'envahisseur.",
+    "categorie": "Histoire",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Dans une version 'Game of Thrones sénégalais', qui serait l’ennemi principal des royaumes au XIXe siècle ?",
+    "options": ["La colonisation française", "Un dragon géant", "Les Vikings", "Les Incas"],
+    "reponse": "La colonisation française",
+    "explication": "Le XIXe siècle marque la fin de la souveraineté des royaumes face à l'avancée française.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Quel royaume a résisté pour garder le contrôle de ses terres face au projet de chemin de fer ?",
+    "options": ["Cayor avec Lat Dior", "Waalo avec Ndaté Yalla", "Djolof avec le Bourba", "Un royaume imaginaire"],
+    "reponse": "Cayor avec Lat Dior",
+    "explication": "Lat Dior considérait le rail comme l'outil de la domination étrangère sur ses terres.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : Le Djolof était déjà un royaume 'démocratique' avec élections au suffrage universel.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Faux",
+    "explication": "C'était une aristocratie : les chefs étaient choisis par un conseil de notables, pas par le peuple entier.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si tu devais choisir un super‑pouvoir pour Ndaté Yalla, ce serait :",
+    "options": ["'Bouclier anti‑colonisation'", "'Invisibilité bancaire'", "'Téléportation vers Paris'", "'Silence éternel'"],
+    "reponse": "'Bouclier anti‑colonisation'",
+    "explication": "Toute sa vie a été dédiée à protéger l'intégrité du territoire du Waalo.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "L’islamisation progresse au Sénégal à partir du XIe siècle notamment par :",
+    "options": ["Les échanges commerciaux et les marabouts", "La télévision", "Les réseaux sociaux", "Les SMS"],
+    "reponse": "Les échanges commerciaux et les marabouts",
+    "explication": "L'Islam s'est diffusé pacifiquement via les routes du désert et les prédicateurs.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Le Sénégal fait partie à une époque de l’empire du Ghana puis de l’empire du Mali. Qu’est‑ce que cela montre ?",
+    "options": ["Des échanges anciens et des réseaux politiques africains", "Qu’il n’y avait personne", "Qu’il était vide jusqu’en 1960", "Qu’il était colonie chinoise"],
+    "reponse": "Des échanges anciens et des réseaux politiques africains",
+    "explication": "L'Afrique de l'Ouest a toujours été interconnectée par de grands ensembles politiques.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si tu crées un niveau 'Royaumes' dans ton jeu, quel couple associes‑tu ?",
+    "options": ["Cayor – Damel", "Waalo – Pape", "Djolof – Président", "Casamance – Gouverneur"],
+    "reponse": "Cayor – Damel",
+    "explication": "Damel est le titre exclusif du souverain du royaume du Cayor.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Pourquoi l’histoire des royaumes est importante pour un joueur d’aujourd’hui ?",
+    "options": ["Elle explique d’où viennent les pouvoirs et les résistances", "Elle ne sert à rien", "Elle sert juste à avoir des prénoms", "Elle remplace les séries Netflix"],
+    "reponse": "Elle explique d’où viennent les pouvoirs et les résistances",
+    "explication": "Comprendre le passé permet de mieux saisir les enjeux de l'unité nationale actuelle.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si tu dois choisir un slogan pour le royaume du Waalo pendant la colonisation, ce serait plutôt :",
+    "options": ["'Ni soumission, ni abandon'", "'Vive l’impôt forcé'", "'Silence, on colonise'", "'On vend tout le fleuve Sénégal'"],
+    "reponse": "'Ni soumission, ni abandon'",
+    "explication": "C'est l'essence même de la résistance de la noblesse Mbodj.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : Les royaumes précoloniaux avaient déjà des institutions, des règles de succession, des armées et des diplomaties.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "Le Sénégal n'était pas un désert politique ; l'État existait bien avant l'arrivée des Européens.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Le Sénégal devient officiellement indépendant en 1960. Que fait le pays juste après ?",
+    "options": ["Choisit son drapeau, son hymne et sa Constitution", "Annule toutes les lois", "Supprime le français", "Déménage à New York"],
+    "reponse": "Choisit son drapeau, son hymne et sa Constitution",
+    "explication": "Ce sont les piliers de la nouvelle souveraineté nationale.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "En 1962, un grand conflit oppose Senghor et Mamadou Dia. Comment appelle‑t‑on cet épisode ?",
+    "options": ["La crise politique de 1962", "La bataille de la musique", "Le match retour", "La guerre du jollof rice"],
+    "reponse": "La crise politique de 1962",
+    "explication": "Une rupture majeure au sommet de l'État qui a conduit à un régime présidentiel fort.",
+    "categorie": "Politique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Après cette crise de 1962, que devient Mamadou Dia ?",
+    "options": ["Il est arrêté, jugé et condamné", "Il devient roi du Djolof", "Il devient chef de l’ONU", "Il se reconvertit en lutteur"],
+    "reponse": "Il est arrêté, jugé et condamné",
+    "explication": "Il fut emprisonné à Kédougou avant d'être gracié des années plus tard.",
+    "categorie": "Politique",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Senghor quitte volontairement le pouvoir en 1980. Que montre ce départ ?",
+    "options": ["Une alternance pacifique et un geste démocratique", "Un coup d’État militaire", "Une fuite de nuit", "Une expulsion"],
+    "reponse": "Une alternance pacifique et un geste démocratique",
+    "explication": "C'est un cas rare en Afrique à l'époque, préparant l'arrivée d'Abdou Diouf.",
+    "categorie": "Politique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Cheikh Anta Diop et Senghor, c’est un peu :",
+    "options": ["Un grand débat entre deux visions de l’Afrique", "Un duo comique", "Deux chanteurs de mbalax", "Deux footballeurs rivaux"],
+    "reponse": "Un grand débat entre deux visions de l’Afrique",
+    "explication": "L'un défendait la Civilisation de l'Universel, l'autre l'origine africaine de la civilisation.",
+    "categorie": "Politique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : Cheikh Anta Diop a inspiré une université qui porte son nom à Dakar.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "L'UCAD porte son nom depuis 1987 en hommage à ce savant multidisciplinaire.",
+    "categorie": "Histoire",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Quel mouvement armé naît en Casamance au début des années 1980 ?",
+    "options": ["Le MFDC", "Le PDS", "Le PS", "Le Jambar FC"],
+    "reponse": "Le MFDC",
+    "explication": "Le Mouvement des Forces Démocratiques de la Casamance, au cœur du plus vieux conflit d'Afrique de l'Ouest.",
+    "categorie": "Politique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Quel président est arrivé au pouvoir en 2000 après une longue alternance attendue ?",
+    "options": ["Abdoulaye Wade", "Senghor", "Diouf", "Sall"],
+    "reponse": "Abdoulaye Wade",
+    "explication": "Surnommé 'Le Pape du Sopi', son élection a mis fin à 40 ans de règne socialiste.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "En 2012, une nouvelle alternance a lieu. Qui devient président ?",
+    "options": ["Macky Sall", "Abdou Diouf", "Bassirou Diomaye Faye", "Cheikh Anta Diop"],
+    "reponse": "Macky Sall",
+    "explication": "Il a battu Abdoulaye Wade au second tour lors d'une élection très suivie.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Le fait qu’il y ait plusieurs alternances (2000, 2012, 2024) montre que :",
+    "options": ["Le jeu démocratique peut fonctionner", "Les citoyens ne votent jamais", "Le président est nommé à vie", "Les résultats sont tirés au sort"],
+    "reponse": "Le jeu démocratique peut fonctionner",
+    "explication": "Le Sénégal est cité en exemple pour ses transitions pacifiques par les urnes.",
+    "categorie": "Politique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si ton avatar de jeu s’appelle 'Citoyen 1960', il peut avoir comme défi :",
+    "options": ["Comprendre la rupture avec la colonisation et la construction de l’État", "Installer TikTok", "Commander du fast‑food", "Gérer un club de foot"],
+    "reponse": "Comprendre la rupture avec la colonisation et la construction de l’État",
+    "explication": "1960 est l'année de tous les possibles et de la naissance de la nation moderne.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Quelle femme devient la première Première ministre d’Afrique francophone au Sénégal (début 2000) ?",
+    "options": ["Mame Madior Boye", "Aïda Mbodj", "Aminata Touré", "Ndaté Yalla"],
+    "reponse": "Mame Madior Boye",
+    "explication": "Une juriste de haut vol qui a marqué l'histoire politique du pays.",
+    "categorie": "Politique",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Vrai ou Faux : L’histoire politique du Sénégal est faite uniquement d’émeutes et de coups d’État.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Faux",
+    "explication": "C'est surtout une histoire de dialogue social et de stabilité institutionnelle.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Quand un citoyen comprend la crise de 1962 et les alternances, il comprend mieux :",
+    "options": ["Que la politique est une longue histoire", "Que tout se joue en un jour", "Que son vote ne sert jamais", "Qu’il vaut mieux dormir"],
+    "reponse": "Que la politique est une longue histoire",
+    "explication": "Le passé donne les clés pour comprendre les débats actuels.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Quel événement économique marque fortement les années 1980–1990 au Sénégal ?",
+    "options": ["Les programmes d’ajustement structurel", "L’invention du smartphone", "La découverte de l’Amérique", "Le premier vol vers Mars"],
+    "reponse": "Les programmes d’ajustement structurel",
+    "explication": "Une période de rigueur imposée par le FMI qui a touché de nombreux secteurs.",
+    "categorie": "Économie",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Pourquoi les ajustements structurels des années 90 sont impopulaires ?",
+    "options": ["Ils entraînent souvent des coupes budgétaires", "Ils distribuent de l’argent à tous", "Ils suppriment les impôts", "Ils multiplient les salaires"],
+    "reponse": "Ils entraînent souvent des coupes budgétaires",
+    "explication": "Moins d'argent pour les services publics en échange d'un équilibre financier.",
+    "categorie": "Économie",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : La sécheresse et la chute de la production arachidière ont créé une crise économique dans les années 60–70.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "Le Sénégal dépendait trop de l'arachide, vulnérable au climat.",
+    "categorie": "Économie",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Quelle région est souvent au cœur des débats sur la paix et le développement ?",
+    "options": ["La Casamance", "La Mauritanie", "Le Sahara", "La Laponie"],
+    "reponse": "La Casamance",
+    "explication": "Région riche et verte, dont le désenclavement est une priorité nationale.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "L’arachide a représenté longtemps environ 80% des exportations. Cela signifie :",
+    "options": ["L’arachide est la colonne vertébrale de l’économie rurale", "L’arachide est juste un hobby", "L’arachide est une appli mobile", "L’arachide ne se mange pas"],
+    "reponse": "L’arachide est la colonne vertébrale de l’économie rurale",
+    "explication": "Le paysan sénégalais a longtemps été le premier moteur de la croissance.",
+    "categorie": "Économie",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Vrai ou Faux : La filière arachidière a structuré le territoire, les transports et l’urbanisation.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "Le chemin de fer (le 'Dakar-Niger') a été conçu pour évacuer les récoltes.",
+    "categorie": "Économie",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Quand on parle de 'malédiction des ressources', on veut dire que :",
+    "options": ["Sans bonne gestion, pétrole et gaz peuvent créer des problèmes", "Les ressources disparaissent magiquement", "L’or se transforme en sable", "Les citoyens deviennent invisibles"],
+    "reponse": "Sans bonne gestion, pétrole et gaz peuvent créer des problèmes",
+    "explication": "La richesse extractive doit profiter au peuple, pas seulement à une élite.",
+    "categorie": "Économie",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Une gestion responsable des revenus du gaz consiste à :",
+    "options": ["Investir dans l’éducation et la santé", "Acheter des voitures de luxe", "Cacher l’argent à l’étranger", "Organiser un concert privé"],
+    "reponse": "Investir dans l’éducation et la santé",
+    "explication": "Préparer l'avenir des générations futures avec des revenus durables.",
+    "categorie": "Économie",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : Les contrats pétroliers et gaziers doivent être transparents pour éviter les scandales.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "La transparence est le bouclier contre la corruption.",
+    "categorie": "Juridique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Pourquoi c’est dangereux de tout miser sur l’arachide ou le pétrole (monoculture) ?",
+    "options": ["Une crise de prix peut casser toute l’économie", "Ça donne automatiquement la richesse éternelle", "Ça empêche de travailler", "Ça supprime les impôts"],
+    "reponse": "Une crise de prix peut casser toute l’économie",
+    "explication": "La diversification économique est la seule assurance contre les crises mondiales.",
+    "categorie": "Économie",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "L’ONCAD et la SONACOS servaient historiquement à :",
+    "options": ["Organiser la filière arachidière", "Organiser des concerts", "Gérer les réseaux sociaux", "Construire des stades"],
+    "reponse": "Organiser la filière arachidière",
+    "explication": "Des organismes d'État pour encadrer la vente et la transformation de l'arachide.",
+    "categorie": "Économie",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Un citoyen informé sur le gaz et le pétrole va demander :",
+    "options": ["'Où sont les contrats ? Où va l’argent ?'", "'Qui joue numéro 10 ?'", "'Quel est le prix des sneakers ?'", "'Qui gagne au loto ?'"],
+    "reponse": "'Où sont les contrats ? Où va l’argent ?'",
+    "explication": "C'est le rôle de veille du citoyen sur les ressources nationales.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Ousmane Sonko s’est fait connaître notamment pour :",
+    "options": ["Ses critiques sur la gestion fiscale et pétrolière", "Son rôle de chanteur", "Sa carrière de lutteur", "Sa carrière de footballeur"],
+    "reponse": "Ses critiques sur la gestion fiscale et pétrolière",
+    "explication": "Ancien inspecteur des impôts, il a axé son discours sur la transparence financière.",
+    "categorie": "Politique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Qui proclame officiellement les résultats de l’élection présidentielle ?",
+    "options": ["Le Conseil constitutionnel", "L’Assemblée nationale", "Le Ministère des Sports", "Le maire de Dakar"],
+    "reponse": "Le Conseil constitutionnel",
+    "explication": "C'est le juge ultime de la régularité des élections.",
+    "categorie": "Juridique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vrai ou Faux : Le Conseil constitutionnel peut annuler une élection si les règles sont violées.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "Il est le gardien de la Constitution et du droit électoral.",
+    "categorie": "Juridique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "L’Assemblée nationale peut être vue comme :",
+    "options": ["'L’atelier où on fabrique les lois'", "'Un stade de foot'", "'Une salle de cinéma'", "'Un marché de légumes'"],
+    "reponse": "'L’atelier où on fabrique les lois'",
+    "explication": "Les députés y votent les lois et contrôlent l'action du gouvernement.",
+    "categorie": "Juridique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Vrai ou Faux : Le Président peut tout faire sans aucune limite juridique.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Faux",
+    "explication": "Le Sénégal est un État de droit : le Président doit respecter la Constitution.",
+    "categorie": "Juridique",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "La Constitution, dans ton jeu, est représentée comme :",
+    "options": ["'Le manuel du jeu politique'", "'Un simple dessin'", "'Un menu de restaurant'", "'Une affiche de match'"],
+    "reponse": "'Le manuel du jeu politique'",
+    "explication": "Elle définit les règles que tout le monde doit suivre.",
+    "categorie": "Juridique",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Cheikh Anta Diop a surtout combattu pour :",
+    "options": ["La réhabilitation de l’histoire africaine", "La colonisation", "Le silence scientifique", "La suppression de la recherche"],
+    "reponse": "La réhabilitation de l’histoire africaine",
+    "explication": "Il a prouvé que l'Afrique noire est à l'origine de la civilisation égyptienne.",
+    "categorie": "Histoire",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Quel est l’intérêt d’avoir des institutions indépendantes (justice, Conseil constitutionnel) ?",
+    "options": ["Éviter que tout le pouvoir soit concentré", "Permettre la triche organisée", "Supprimer les contrôles", "Rendre la politique inutile"],
+    "reponse": "Éviter que tout le pouvoir soit concentré",
+    "explication": "C'est la base de la séparation des pouvoirs.",
+    "categorie": "Juridique",
+    "difficulte": "Difficile"
+  },
+  {
+    "q": "Quelle femme intellectuelle a marqué la littérature avec 'Une si longue lettre' ?",
+    "options": ["Mariama Bâ", "Ndaté Yalla", "Aline Sitoé Diatta", "Aminata Touré"],
+    "reponse": "Mariama Bâ",
+    "explication": "Un chef-d'œuvre sur la condition des femmes au Sénégal.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Vendre son vote pour 5 000 F CFA signifie :",
+    "options": ["Tu vends ton pouvoir pour une journée de nourriture", "C’est la meilleure stratégie", "Tu es ministre", "Tu es roi du Djolof"],
+    "reponse": "Tu vends ton pouvoir pour une journée de nourriture",
+    "explication": "Le vote est un droit précieux, pas une marchandise.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Vrai ou Faux : Un citoyen qui ne connaît ni les institutions ni l’histoire est plus facile à manipuler.",
+    "options": ["Vrai", "Faux"],
+    "reponse": "Vrai",
+    "explication": "Le savoir est le premier bouclier de la liberté.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Facile"
+  },
+  {
+    "q": "Quelle est la meilleure manière de préparer son 'Permis de voter' ?",
+    "options": ["S’informer et comparer les programmes", "Regarder juste les slogans", "Voter selon la rumeur", "Copiner avec les candidats"],
+    "reponse": "S’informer et comparer les programmes",
+    "explication": "C'est le choix d'un citoyen éclairé et responsable.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Si tu choisis 'Je vote sans lire les programmes', l’écran affiche :",
+    "options": ["'Tu joues à la loterie politique'", "'Tu es un stratège'", "'Tu es constitutionnaliste'", "'Tu es économiste'"],
+    "reponse": "'Tu joues à la loterie politique'",
+    "explication": "Confier son avenir au hasard est un risque pour la nation.",
+    "categorie": "Citoyenneté",
+    "difficulte": "Moyenne"
+  },
+  {
+    "q": "Tu es le gardien des traditions ancestrales et le premier occupant d'un territoire. On t'appelle le maître de la terre. Qui es-tu ?",
+    "options": ["Le Bourba", "Le Laman", "Le Saltigué", "Le Damel"],
+    "reponse": "Le Laman",
+    "explication": "Le Laman est le chef de terre traditionnel, souvent garant de l'équilibre spirituel du sol.",
+    "categorie": "Titres et Fonctions"
+  },
+  {
+    "q": "Tu es le conseiller stratégique du Damel, souvent chargé de la gestion des provinces et des impôts. Quel est ton titre ?",
+    "options": ["Le Garaaf", "Le Diaraf", "Le Kangam", "Le Farba"],
+    "reponse": "Le Diaraf",
+    "explication": "Le Diaraf était un ministre ou un gouverneur très influent dans l'administration royale.",
+    "categorie": "Titres et Fonctions"
+  },
+  {
+    "q": "En 1800, pour faire entrer du sel dans une escale fluviale, tu devais traiter avec le responsable du commerce. Comment l'appelait-on ?",
+    "options": ["L'Almamy", "L'Alkati", "Le Linguère", "Le Badiène"],
+    "reponse": "L'Alkati",
+    "explication": "L'Alkati était l'agent chargé de réguler le commerce étranger dans les escales du fleuve.",
+    "categorie": "Titres et Fonctions"
+  },
+  {
+    "q": "Tu es le chef militaire et spirituel des communautés Peul, garant de la sécurité des troupeaux. Quel est ton titre ?",
+    "options": ["L'Ardo", "Le Lam-Toro", "Le Saltigué", "Le Marabout"],
+    "reponse": "L'Ardo",
+    "explication": "L'Ardo guide les transhumances et assure la défense des clans pasteurs.",
+    "categorie": "Titres et Fonctions"
+  },
+  {
+    "q": "Lors d'une cérémonie de Xoy, tu es celui qui interroge les génies pour prédire l'avenir des récoltes. Qui es-tu ?",
+    "options": ["Le Saltigué", "Le Ceddo", "Le Griot", "Le Laman"],
+    "reponse": "Le Saltigué",
+    "explication": "Le Saltigué est le prêtre sérère capable de prédire les pluies et les événements.",
+    "categorie": "Titres et Fonctions"
+  },
+  {
+    "q": "Pendant la Seconde Guerre mondiale, quelle femme a organisé le refus de livrer le riz aux colonisateurs en Casamance ?",
+    "options": ["Ndaté Yalla", "Aline Sitoé Diatta", "Mame Diarra Bousso", "Adja Fatou"],
+    "reponse": "Aline Sitoé Diatta",
+    "explication": "La 'Reine de Kabrousse' a été déportée pour son acte de résistance civile.",
+    "categorie": "Figures Historiques"
+  },
+  {
+    "q": "Au Cayor, après la mort de Lat Dior, quel souverain a tenté de maintenir l'indépendance face au chemin de fer ?",
+    "options": ["Amary Ngoné Sobel", "Samba Laobé Fall", "Birima Ngoné Latyr", "Meïssa Teinde Dior"],
+    "reponse": "Samba Laobé Fall",
+    "explication": "Il fut le dernier Damel avant que le Cayor ne devienne un protectorat français.",
+    "categorie": "Figures Historiques"
+  },
+  {
+    "q": "Quel Damel est célèbre pour avoir réuni les titres de Damel (Cayor) et de Teigne (Baol) pour la première fois ?",
+    "options": ["Amary Ngoné Sobel", "Lat Dior", "Ngoné Latyr", "Daouda Demba"],
+    "reponse": "Amary Ngoné Sobel",
+    "explication": "Il a fondé la lignée des Fall souverains de deux royaumes à la fois.",
+    "categorie": "Figures Historiques"
+  },
+  {
+    "q": "Être né à Saint-Louis ou Gorée en 1900 te donnait un statut unique par rapport aux autres Africains. Lequel ?",
+    "options": ["Citoyen français", "Sujet indigène", "Exilé politique", "Gouverneur"],
+    "reponse": "Citoyen français",
+    "explication": "Grâce au statut des 'Quatre Communes', ils avaient le droit de vote bien avant les autres.",
+    "categorie": "Citoyenneté"
+  },
+  {
+    "q": "Le tissu Manjak est aujourd'hui porté par les grands créateurs. De quelle région vient cette technique de tissage ?",
+    "options": ["Le Fouta", "La Casamance", "Le Saloum", "Le Ferlo"],
+    "reponse": "La Casamance",
+    "explication": "Un artisanat d'une finesse exceptionnelle, pilier de la culture matérielle du Sud.",
+    "categorie": "Artisanat"
+  },
+  {
+    "q": "Youssou N'Dour célèbre souvent la grandeur du Sine dans ses chansons. Quelle ville était la capitale de ce royaume ?",
+    "options": ["Diakhao", "Fatick", "Kaolack", "Joal"],
+    "reponse": "Diakhao",
+    "explication": "Cœur du pouvoir des Buur Sine, Diakhao conserve les vestiges de cette royauté.",
+    "categorie": "Culture"
+  },
+  {
+    "q": "Un guerrier Ceddo préférait la mort à la honte. Comment s'appelle ce code d'honneur sénégalais ?",
+    "options": ["Le Kersa", "Le Jom", "Le Térouanga", "Le Ngor"],
+    "reponse": "Le Jom",
+    "explication": "Le Jom est le courage intérieur et la dignité absolue.",
+    "categorie": "Culture"
+  },
+  {
+    "q": "En 1800, un convoi de sel traversant les terres devait payer une taxe au chef de terre. Quel était l'usage ?",
+    "options": ["Le troc de perles", "Une part de la cargaison", "De l'or pur", "Des tissus"],
+    "reponse": "Une part de la cargaison",
+    "explication": "C'était le système de douane ancestrale pour financer la sécurité des routes.",
+    "categorie": "Économie Historique"
+  },
+  {
+    "q": "Bien avant les arènes modernes, la lutte (Bëre) était un rite pour quel groupe social ?",
+    "options": ["Les forgerons", "Les guerriers et agriculteurs", "Les commerçants", "Les marins"],
+    "reponse": "Les guerriers et agriculteurs",
+    "explication": "Elle servait à tester la force des jeunes à la fin des récoltes.",
+    "categorie": "Culture"
+  },
+  {
+    "q": "Que représentaient les cercles de pierres (mégalithes) pour nos ancêtres en Sénégambie ?",
+    "options": ["Des cadrans solaires", "Des sépultures et lieux de mémoire", "Des bornes", "Des réserves"],
+    "reponse": "Des sépultures et lieux de mémoire",
+    "explication": "Classés à l'UNESCO, ils témoignent d'une civilisation complexe datant d'avant le XIe siècle.",
+    "categorie": "Mystères"
+  },
+  {
+    "q": "Quel ingrédient, aujourd'hui essentiel au Thiéboudienne, était absent des premières versions ?",
+    "options": ["Le poisson", "La tomate", "Le riz", "Le sel"],
+    "reponse": "La tomate",
+    "explication": "La tomate est arrivée d'Amérique bien après la création du plat par Penda Mbaye.",
+    "categorie": "Terroir"
+  },
+  {
+    "q": "Quelle était la fonction première du poisson séché (Guedj) à l'époque des royaumes ?",
+    "options": ["Offrande", "Méthode de conservation", "Médicament", "Monnaie"],
+    "reponse": "Méthode de conservation",
+    "explication": "Sans électricité, le sel et le soleil permettaient de transporter le poisson vers l'intérieur du pays.",
+    "categorie": "Terroir"
+  },
+  {
+    "q": "Quel rôle sacré jouait le Baobab pour les griots dans certaines traditions anciennes du pays Serer ?",
+    "options": ["Mirador", "Sépulture pour les griots", "Prison", "Réservoir d'huile"],
+    "reponse": "Sépulture pour les griots",
+    "explication": "Les griots étaient parfois enterrés dans le tronc des baobabs pour ne pas souiller la terre.",
+    "categorie": "Mystères"
+  },
+  {
+    "q": "Quelle tactique Lat Dior utilisait-il pour épuiser les troupes coloniales ?",
+    "options": ["Empoisonner les puits et brûler les récoltes", "Se rendre", "Murs de pierre", "Éléphants"],
+    "reponse": "Empoisonner les puits et brûler les récoltes",
+    "explication": "La tactique de la 'terre brûlée' pour priver l'adversaire de ressources.",
+    "categorie": "Tactiques de Guerre"
+  },
+  {
+    "q": "Dans le royaume du Waalo, quel titre portait une femme capable de diriger le royaume ?",
+    "options": ["La Linguère", "La Drianké", "La Badiène", "La Ndèye Ji Rew"],
+    "reponse": "La Linguère",
+    "explication": "La Linguère avait un poids politique immense et pouvait mener des armées.",
+    "categorie": "Figures Historiques"
+  },
+  {
+    "q": "Au Cayor, qui choisissait le nouveau Damel parmi les nobles éligibles ?",
+    "options": ["Le peuple", "Un conseil de sept notables", "Le roi de France", "Les marabouts"],
+    "reponse": "Un conseil de sept notables",
+    "explication": "C'était une monarchie élective : le roi n'était pas forcément le fils du précédent.",
+    "categorie": "Institutions"
+  },
+  {
+    "q": "Le royaume du Galam était célèbre jusqu'en Europe pour une ressource précise. Laquelle ?",
+    "options": ["Le fer", "L'or", "Le coton", "Le cuir"],
+    "reponse": "L'or",
+    "explication": "Galam était le point de passage de l'or du Bambouk vers le fleuve Sénégal.",
+    "categorie": "Économie Historique"
+  },
+  {
+    "q": "Que symbolisait le port d'un bracelet de force chez les guerriers Ceddo ?",
+    "options": ["Son rang et sa lignée", "Sa fortune", "Son nombre d'enfants", "Son âge"],
+    "reponse": "Son rang et sa lignée",
+    "explication": "C'était un insigne de bravoure et de statut social.",
+    "categorie": "Artisanat"
+  },
+  {
+    "q": "Comment appelait-on les grands bateaux qui remontaient le fleuve Sénégal jusqu'à Kayes ?",
+    "options": ["Les Caravelles", "Les Chalands", "Les Galères", "Les Canoës"],
+    "reponse": "Les Chalands",
+    "explication": "Ces bateaux à fond plat transportaient les marchandises pendant la crue du fleuve.",
+    "categorie": "Économie Historique"
+  },
+  {
+    "q": "Le royaume du Waalo était historiquement à cheval sur deux pays actuels. Lesquels ?",
+    "options": ["Sénégal et Mali", "Sénégal et Mauritanie", "Sénégal et Gambie", "Sénégal et Guinée"],
+    "reponse": "Sénégal et Mauritanie",
+    "explication": "Le royaume s'étendait sur les deux rives du fleuve Sénégal.",
+    "categorie": "Géographie Historique"
+  },
+  {
+    "q": "Quel quartier de Dakar a toujours gardé son âme et ses traditions de village de pêcheurs Lebou ?",
+    "options": ["Yoff", "Médina", "Almadies", "Bel-Air"],
+    "reponse": "Yoff",
+    "explication": "Yoff garde une autonomie culturelle et des rituels très forts liés à la mer.",
+    "categorie": "Géographie Historique"
+  },
+  {
+    "q": "À l'origine, que signifiait réellement l'esprit de la 'Teranga' dans la structure sociale ?",
+    "options": ["Cadeau", "Droit d'asile et protection de l'étranger", "Réduction", "Fête"],
+    "reponse": "Droit d'asile et protection de l'étranger",
+    "explication": "Bien plus que l'accueil, c'était un devoir sacré de protection.",
+    "categorie": "Culture"
+  },
+  {
+    "q": "Comment appelle-t-on les bras de mer qui serpentent dans la mangrove en Casamance et au Saloum ?",
+    "options": ["Les Oasis", "Les Bolongs", "Les Fjords", "Les Lagunes"],
+    "reponse": "Les Bolongs",
+    "explication": "Ils constituent le labyrinthe aquatique vital pour la pêche et le riz.",
+    "categorie": "Géographie Historique"
+  },
+  {
+    "q": "Dans les foyers traditionnels du Sine, qui gérait historiquement les greniers à mil ?",
+    "options": ["Le chef de village", "La mère de famille", "Le guerrier", "Le griot"],
+    "reponse": "La mère de famille",
+    "explication": "La femme gérait la sécurité alimentaire de la concession.",
+    "categorie": "Société"
+  },
+  {
+    "q": "Que portait un guerrier Ceddo pour rester agile au combat tout en montrant son rang ?",
+    "options": ["Un Grand Boubou", "Tunique courte et pantalon bouffant", "Une cape", "Une armure"],
+    "reponse": "Tunique courte et pantalon bouffant",
+    "explication": "Un vêtement adapté au climat et au mouvement, souvent orné de talismans.",
+    "categorie": "Artisanat"
+  },
+  {
+    "q": "Dans le Ferlo, comment les bergers trouvaient-ils l'eau avant les forages modernes ?",
+    "options": ["Au hasard", "Observation de la végétation et des oiseaux", "Cartes", "Magie"],
+    "reponse": "Observation de la végétation et des oiseaux",
+    "explication": "Une science de la nature indispensable à la survie en zone aride.",
+    "categorie": "Terroir"
+  },
+  {
+    "q": "Qui était appelé pour réciter la généalogie lors d'un conflit de terre datant de plusieurs générations ?",
+    "options": ["Le forgeron", "Le Griot", "Le marchand", "Le soldat"],
+    "reponse": "Le Griot",
+    "explication": "Le Griot était la mémoire vivante et le notaire oral de la société.",
+    "categorie": "Société"
+  },
+  {
+    "q": "Pourquoi donne-t-on souvent le nom d'un grand-parent à un enfant (le Toude) ?",
+    "options": ["Par manque d'idées", "Continuité des vertus de l'ancêtre", "Obligation légale", "Pour l'héritage"],
+    "reponse": "Continuité des vertus de l'ancêtre",
+    "explication": "On espère que l'enfant héritera de la force de caractère de son homonyme.",
+    "categorie": "Culture"
+  },
+  {
+    "q": "Quel est le but réel du 'Cousinage à plaisanterie' (Kal) dans la société sénégalaise ?",
+    "options": ["Se moquer", "Désamorcer les tensions sociales", "Gagner de l'argent", "Tricher"],
+    "reponse": "Désamorcer les tensions sociales",
+    "explication": "C'est un pacte de non-agression ancestral qui soude les ethnies.",
+    "categorie": "Société"
+  },
+  {
+    "q": "Quel plat à base de mil était le repas de prestige dans les cours royales du Baol ?",
+    "options": ["Le Yassa", "Le Ngourbane", "Le Mafé", "Le Vermicelle"],
+    "reponse": "Le Ngourbane",
+    "explication": "Plat de mil concassé et de viande, pilier gastronomique des royaumes centraux.",
+    "categorie": "Terroir"
+  },
+  {
+    "q": "Quel outil unique les Diolas ont-ils inventé pour cultiver le riz en zone inondée ?",
+    "options": ["La charrue", "Le Kayendo", "La pioche", "La hache"],
+    "reponse": "Le Kayendo",
+    "explication": "Une pelle à long manche qui permet de retourner la terre lourde sans se baisser.",
+    "categorie": "Artisanat"
+  },
+  {
+    "q": "Pourquoi les jugements se passaient-ils toujours sous l'arbre à palabre ?",
+    "options": ["Pour l'ombre", "Pour que la justice soit publique", "Parce qu'il n'y avait pas de maisons", "Pour le vent"],
+    "reponse": "Pour que la justice soit publique",
+    "explication": "La transparence garantissait l'acceptation de la sentence par tous.",
+    "categorie": "Institutions"
+  },
+  {
+    "q": "Avec quelle région le Nord du Sénégal commerçait-il avant l'arrivée des bateaux européens ?",
+    "options": ["L'Amérique", "Le Maghreb et le Sahara", "L'Asie", "L'Afrique du Sud"],
+    "reponse": "Le Maghreb et le Sahara",
+    "explication": "Le commerce transsaharien a apporté le sel et les épices bien avant le commerce maritime.",
+    "categorie": "Économie Historique"
+  },
+  {
+    "q": "Comment les rois utilisaient-ils le tambour Sabar en temps de guerre ?",
+    "options": ["Pour danser", "Transmettre des messages codés", "Faire peur", "Donner le rythme"],
+    "reponse": "Transmettre des messages codés",
+    "explication": "Le tambour était le télégraphe de l'époque pour alerter les troupes au loin.",
+    "categorie": "Tactiques de Guerre"
+  },
+  {
+    "q": "Une Linguère perdait-elle son pouvoir si son mari (le Roi) mourait ?",
+    "options": ["Oui", "Non, son pouvoir venait de sa lignée maternelle", "Parfois", "Elle devait s'exiler"],
+    "reponse": "Non, son pouvoir venait de sa lignée maternelle",
+    "explication": "La noblesse se transmettait par le sang des femmes (matrilinéarité).",
+    "categorie": "Figures Historiques"
+  }
+]
