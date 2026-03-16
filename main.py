@@ -1,5 +1,5 @@
 import flet as ft
-import flet.fastapi as flet_fastapi
+from flet.fastapi import app as flet_app  # Correction pour le déploiement
 from fastapi import FastAPI
 from pydantic import BaseModel
 import sqlite3
@@ -233,9 +233,8 @@ def main(page: ft.Page):
 
     afficher_menu_principal()
 
-# --- MONTAGE ---
-app.mount("/", flet_fastapi.app(main))
+# --- MONTAGE (Version simplifiée pour Render) ---
+app.mount("/", flet_app(main))
 
 if __name__ == "__main__":
-    # Utilisation du port 8000 pour la production
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=10000)
