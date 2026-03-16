@@ -1,5 +1,2 @@
-flet
 flet-fastapi
-flet-web
-fastapi
 uvicorn
